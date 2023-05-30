@@ -1,0 +1,68 @@
+﻿  imgui.cpp
+  imgui_sdl.cpp
+C:\Users\capta\source\repos\GAME1007_M1_Evangelista-master\include\IMGUI_SDL\imgui_sdl.cpp(3,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Agent.cpp
+C:\Users\capta\source\repos\GAME1007_M1_Evangelista-master\src\Agent.h(5,10): fatal  error C1083: Cannot open include file: 'glm/vec4.hpp': No such file or directory
+  Button.cpp
+C:\Users\capta\source\repos\GAME1007_M1_Evangelista-master\src\Transform.h(4,10): fatal  error C1083: Cannot open include file: 'glm/vec2.hpp': No such file or directory
+  CollisionManager.cpp
+C:\Users\capta\source\repos\GAME1007_M1_Evangelista-master\src\Transform.h(4,10): fatal  error C1083: Cannot open include file: 'glm/vec2.hpp': No such file or directory
+  ImGuiWindowFrame.cpp
+C:\Users\capta\source\repos\GAME1007_M1_Evangelista-master\src\ImGuiWindowFrame.h(4,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  NavigationObject.cpp
+C:\Users\capta\source\repos\GAME1007_M1_Evangelista-master\src\Transform.h(4,10): fatal  error C1083: Cannot open include file: 'glm/vec2.hpp': No such file or directory
+  Obstacle.cpp
+C:\Users\capta\source\repos\GAME1007_M1_Evangelista-master\src\Transform.h(4,10): fatal  error C1083: Cannot open include file: 'glm/vec2.hpp': No such file or directory
+  Sprite.cpp
+C:\Users\capta\source\repos\GAME1007_M1_Evangelista-master\src\Transform.h(4,10): fatal  error C1083: Cannot open include file: 'glm/vec2.hpp': No such file or directory
+  UIControl.cpp
+C:\Users\capta\source\repos\GAME1007_M1_Evangelista-master\src\Transform.h(4,10): fatal  error C1083: Cannot open include file: 'glm/vec2.hpp': No such file or directory
+  DisplayObject.cpp
+C:\Users\capta\source\repos\GAME1007_M1_Evangelista-master\src\Transform.h(4,10): fatal  error C1083: Cannot open include file: 'glm/vec2.hpp': No such file or directory
+  EndScene.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\optional(12): warning STL4038: The contents of <optional> are available only with C++17 or later.
+C:\Users\capta\source\repos\GAME1007_M1_Evangelista-master\src\Transform.h(4,10): fatal  error C1083: Cannot open include file: 'glm/vec2.hpp': No such file or directory
+  FontManager.cpp
+C:\Users\capta\source\repos\GAME1007_M1_Evangelista-master\src\FontManager.h(11,9): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Game.cpp
+C:\Users\capta\source\repos\GAME1007_M1_Evangelista-master\src\Game.h(11,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  GameController.cpp
+C:\Users\capta\source\repos\GAME1007_M1_Evangelista-master\src\GameController.h(5,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  GameObject.cpp
+C:\Users\capta\source\repos\GAME1007_M1_Evangelista-master\src\Transform.h(4,10): fatal  error C1083: Cannot open include file: 'glm/vec2.hpp': No such file or directory
+  Label.cpp
+C:\Users\capta\source\repos\GAME1007_M1_Evangelista-master\src\Transform.h(4,10): fatal  error C1083: Cannot open include file: 'glm/vec2.hpp': No such file or directory
+  PlayScene.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\optional(12): warning STL4038: The contents of <optional> are available only with C++17 or later.
+C:\Users\capta\source\repos\GAME1007_M1_Evangelista-master\src\Transform.h(4,10): fatal  error C1083: Cannot open include file: 'glm/vec2.hpp': No such file or directory
+  main.cpp
+C:\Users\capta\source\repos\GAME1007_M1_Evangelista-master\src\main.cpp(10,10): fatal  error C1083: Cannot open include file: 'SDL_Image.h': No such file or directory
+  Plane.cpp
+C:\Users\capta\source\repos\GAME1007_M1_Evangelista-master\src\Transform.h(4,10): fatal  error C1083: Cannot open include file: 'glm/vec2.hpp': No such file or directory
+  Generating Code...
+  Compiling...
+  Player.cpp
+C:\Users\capta\source\repos\GAME1007_M1_Evangelista-master\src\Transform.h(4,10): fatal  error C1083: Cannot open include file: 'glm/vec2.hpp': No such file or directory
+  Renderer.cpp
+C:\Users\capta\source\repos\GAME1007_M1_Evangelista-master\src\Renderer.h(4,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Scene.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\optional(12): warning STL4038: The contents of <optional> are available only with C++17 or later.
+C:\Users\capta\source\repos\GAME1007_M1_Evangelista-master\src\Transform.h(4,10): fatal  error C1083: Cannot open include file: 'glm/vec2.hpp': No such file or directory
+  Ship.cpp
+C:\Users\capta\source\repos\GAME1007_M1_Evangelista-master\src\TextureManager.h(10,10): fatal  error C1083: Cannot open include file: 'glm/vec2.hpp': No such file or directory
+  SoundManager.cpp
+C:\Users\capta\source\repos\GAME1007_M1_Evangelista-master\src\SoundManager.h(11,10): fatal  error C1083: Cannot open include file: 'SDL_mixer.h': No such file or directory
+  EventManager.cpp
+C:\Users\capta\source\repos\GAME1007_M1_Evangelista-master\src\EventManager.h(5,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  SpriteSheet.cpp
+C:\Users\capta\source\repos\GAME1007_M1_Evangelista-master\src\SpriteSheet.h(7,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  StartScene.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\optional(12): warning STL4038: The contents of <optional> are available only with C++17 or later.
+C:\Users\capta\source\repos\GAME1007_M1_Evangelista-master\src\Transform.h(4,10): fatal  error C1083: Cannot open include file: 'glm/vec2.hpp': No such file or directory
+  Target.cpp
+C:\Users\capta\source\repos\GAME1007_M1_Evangelista-master\src\Transform.h(4,10): fatal  error C1083: Cannot open include file: 'glm/vec2.hpp': No such file or directory
+  TextureManager.cpp
+C:\Users\capta\source\repos\GAME1007_M1_Evangelista-master\src\TextureManager.h(10,10): fatal  error C1083: Cannot open include file: 'glm/vec2.hpp': No such file or directory
+  Util.cpp
+C:\Users\capta\source\repos\GAME1007_M1_Evangelista-master\src\Util.h(5,10): fatal  error C1083: Cannot open include file: 'GLM/vec2.hpp': No such file or directory
+  Generating Code...

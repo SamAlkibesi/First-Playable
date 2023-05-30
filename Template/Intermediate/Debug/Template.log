@@ -1,0 +1,44 @@
+﻿  main.cpp
+C:\Users\Sam\Downloads\Project_Game\GAME1007_Project\src\main.cpp(104,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sam\Downloads\Project_Game\GAME1007_Project\src\main.cpp(105,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sam\Downloads\Project_Game\GAME1007_Project\src\main.cpp(118,28): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Sam\Downloads\Project_Game\GAME1007_Project\src\main.cpp(119,28): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Sam\Downloads\Project_Game\GAME1007_Project\src\main.cpp(126,26): warning C4838: conversion from 'const int' to 'float' requires a narrowing conversion
+C:\Users\Sam\Downloads\Project_Game\GAME1007_Project\src\main.cpp(126,26): warning C4244: 'initializing': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Sam\Downloads\Project_Game\GAME1007_Project\src\main.cpp(126,32): warning C4838: conversion from 'const int' to 'float' requires a narrowing conversion
+C:\Users\Sam\Downloads\Project_Game\GAME1007_Project\src\main.cpp(126,32): warning C4244: 'initializing': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Sam\Downloads\Project_Game\GAME1007_Project\src\main.cpp(133,26): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\Sam\Downloads\Project_Game\GAME1007_Project\src\main.cpp(133,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sam\Downloads\Project_Game\GAME1007_Project\src\main.cpp(133,32): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\Sam\Downloads\Project_Game\GAME1007_Project\src\main.cpp(133,32): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sam\Downloads\Project_Game\GAME1007_Project\src\main.cpp(143,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sam\Downloads\Project_Game\GAME1007_Project\src\main.cpp(144,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sam\Downloads\Project_Game\GAME1007_Project\src\main.cpp(197,52): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sam\Downloads\Project_Game\GAME1007_Project\src\main.cpp(260,14): warning C4101: 'maxAy': unreferenced local variable
+C:\Users\Sam\Downloads\Project_Game\GAME1007_Project\src\main.cpp(260,21): warning C4101: 'minBy': unreferenced local variable
+C:\Users\Sam\Downloads\Project_Game\GAME1007_Project\src\main.cpp(259,7): warning C4101: 'minAx': unreferenced local variable
+C:\Users\Sam\Downloads\Project_Game\GAME1007_Project\src\main.cpp(259,28): warning C4101: 'maxBx': unreferenced local variable
+C:\Users\Sam\Downloads\Project_Game\GAME1007_Project\src\main.cpp(259,14): warning C4101: 'maxAx': unreferenced local variable
+C:\Users\Sam\Downloads\Project_Game\GAME1007_Project\src\main.cpp(260,7): warning C4101: 'minAy': unreferenced local variable
+C:\Users\Sam\Downloads\Project_Game\GAME1007_Project\src\main.cpp(260,28): warning C4101: 'maxBy': unreferenced local variable
+C:\Users\Sam\Downloads\Project_Game\GAME1007_Project\src\main.cpp(259,21): warning C4101: 'minBx': unreferenced local variable
+C:\Users\Sam\Downloads\Project_Game\GAME1007_Project\src\main.cpp(379,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sam\Downloads\Project_Game\GAME1007_Project\src\main.cpp(380,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sam\Downloads\Project_Game\GAME1007_Project\src\main.cpp(631,47): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sam\Downloads\Project_Game\GAME1007_Project\src\main.cpp(631,31): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\Sam\Downloads\Project_Game\GAME1007_Project\src\main.cpp(634,31): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Sam\Downloads\Project_Game\GAME1007_Project\src\main.cpp(648,48): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sam\Downloads\Project_Game\GAME1007_Project\src\main.cpp(648,33): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\Sam\Downloads\Project_Game\GAME1007_Project\src\main.cpp(651,31): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Sam\Downloads\Project_Game\GAME1007_Project\src\main.cpp(779,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sam\Downloads\Project_Game\GAME1007_Project\src\main.cpp(785,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sam\Downloads\Project_Game\GAME1007_Project\src\main.cpp(791,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sam\Downloads\Project_Game\GAME1007_Project\src\main.cpp(819,26): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Sam\Downloads\Project_Game\GAME1007_Project\src\main.cpp(856,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sam\Downloads\Project_Game\GAME1007_Project\src\main.cpp(862,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sam\Downloads\Project_Game\GAME1007_Project\src\main.cpp(867,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sam\Downloads\Project_Game\GAME1007_Project\src\main.cpp(884,58): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Sam\Downloads\Project_Game\GAME1007_Project\src\main.cpp(884,58): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sam\Downloads\Project_Game\GAME1007_Project\src\main.cpp(885,58): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Sam\Downloads\Project_Game\GAME1007_Project\src\main.cpp(885,58): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Template.vcxproj -> C:\Users\Sam\Downloads\Project_Game\GAME1007_Project\bin\Debug\Template.exe
